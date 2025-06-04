@@ -105,8 +105,7 @@ Tessera.Backend/
 │
 ├── appsettings.Development.json  # განვითარების გარემოს პარამეტრები
 ├── appsettings.json              # პროდაქშენ გარემოს პარამეტრები
-├── folders.txt                   # დირექტორიების სია
-├── index.js                      # JavaScript ფაილი
+├── folders.txt                   # დირექტორიების სია                 
 ├── inserts.sql                   # SQL მონაცემების შესავსები სკრიპტი
 ├── package-lock.json             # npm პაკეტების დამოკიდებულებები
 ├── package.json                  # npm პროექტის კონფიგურაცია
@@ -240,10 +239,10 @@ Tessera.Frontend/
 2. გაუშვით ფრონტენდი `ng serve` ბრძანებით
 3. გახსენით ბრაუზერი მისამართზე: `http://localhost:4200`
 4. შესვლა ადმინისტრატორის ანგარიშით:
-   - მომხმარებელი: `admin@tessera.com`
-   - პაროლი: `Admin123!`
+   - მომხმარებელი: `admin@example.com`
+   - პაროლი: `Admin123`
 5. შესვლა ჩვეულებრივი მომხმარებლის ანგარიშით:
-   - მომხმარებელი: `user@tessera.com`
+   - მომხმარებელი: `user@example.com`
    - პაროლი: `User123!`
 
 ## განვითარების გეგმები
